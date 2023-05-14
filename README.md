@@ -1,5 +1,5 @@
 # CovidTrack
-A Covid-19 Data Tracking application. [View Project.](https://covid-tracker-spring.herokuapp.com/)
+A Covid-19 Data Tracking application. Heroku host no longer available.
 
 ## API
 Data is sourced from the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University github repository](https://github.com/CSSEGISandData/COVID-19)
